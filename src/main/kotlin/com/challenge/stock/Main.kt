@@ -1,4 +1,4 @@
-package com.codely.demo
+package com.challenge.stock
 
 class Codelyber {
     fun greet() = "Welcome to kotlin skeleton!!!"
